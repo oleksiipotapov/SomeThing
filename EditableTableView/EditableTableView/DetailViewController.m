@@ -52,8 +52,6 @@
 	// Do any additional setup after loading the view, typically from a nib.
     [self configureView];
     NSLog(@"O, mother of God, LOG HERE!");
-    NSLog(@"O, mother of God, LOG and HERE!");
-
 }
 
 - (void)viewDidUnload
